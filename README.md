@@ -3,7 +3,7 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-(fill in your description and goals here)
+
 The project goal is to combine and practice the topics that have been learned so far. These incude 
 Machine learning, Serialization of models, Flask and AWS while trying to model a loan automation process to predict loan approval rate.
 
@@ -27,8 +27,6 @@ Approximately 70% of all loans are given
 
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
-### (your step 1)
 
 Data Collection:
 
