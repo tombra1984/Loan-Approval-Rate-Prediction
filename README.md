@@ -75,4 +75,4 @@ The model was created using a linear regressor. The model had an accuracy of app
 There were several challenges associated with this project. However the major challenge was trying to launch the model and working with AWS as both were affected by security set ups.
 
 ## Future Goals
-There were alot of 'Nans' within the data that was filled out using means and modes this may cause bais within the dataset.If there was more time more EDA would be done throughly to try and aviod such complications. 
+There were alot of 'Nans' within the data that was filled out using means and modes this may cause bais within the dataset.If there was more time more EDA would be done throughly to try and fill those Nans with more appropriate values. 
