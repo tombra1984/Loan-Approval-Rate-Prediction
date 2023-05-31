@@ -4,11 +4,7 @@
 
 ## Project/Goals
 
-The project goal is to combine and practice the topics that have been learned so far. These incude 
-Machine learning, Serialization of models, Flask and AWS while trying to model a loan automation process to predict loan approval rate.
-
-
-
+This project involved the modelling of a loan automation process by predicting loan approval rates and then deploying this model to the cloud. This involved using various tool sets like machine learning, serialization of models, flask and AWS.
 
 ## Hypothesis
 Males will have a higher loan approval rate. This is because males ususally are the income earners within household and in society in general. This presents them the opportunity to have good credit and income and thus higher borrowing power. 
